@@ -1,5 +1,7 @@
 # Navicat Keygen
 
+首先要去下载 Navicat, 官网上只提供最新版本下载，但 v15 下载后无法第一步便无法成功，因此需要去下载 v12 版本，也就是经过测试有效的版本。[下载链接](https://mac.filehorse.com/download-navicat-premium/12656/change-log/)
+
 这份repo将会告诉你Navicat是怎么完成离线激活的。
 
 [注册机是怎么工作的?](HOW_DOES_IT_WORK.zh-CN.md)
@@ -197,6 +199,7 @@
      ```
 
 5. __生成一份自签名的代码证书，并总是信任该证书。这一步非常重要。__
+   如何生成代码证书，[参考](https://www.jianshu.com/p/4a8e66f540c2)
 
    __然后用`codesign`对`Navicat Premium.app`重签名。__
 

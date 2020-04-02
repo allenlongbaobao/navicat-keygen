@@ -1,6 +1,6 @@
 # Navicat Keygen
 
-首先要去下载 Navicat, 官网上只提供最新版本下载，但 v15 下载后无法第一步便无法成功，因此需要去下载 v12 版本，也就是经过测试有效的版本。[下载链接](https://mac.filehorse.com/download-navicat-premium/12656/change-log/)
+首先要去下载 Navicat, 官网上只提供最新版本下载，但 v15 下载后第一步便无法成功，因此需要去下载 v12 版本，也就是经过测试有效的版本。[下载链接](https://mac.filehorse.com/download-navicat-premium/12656/change-log/)
 
 这份repo将会告诉你Navicat是怎么完成离线激活的。
 
